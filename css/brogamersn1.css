@@ -17,7 +17,7 @@ nav li, ul{
     list-style-type: none;
     font-size: 10px;
     border-radius: 30px;
-    padding: 8px;
+    padding: 8px 0 8px 0;
 }
 nav img {
     padding: 20px;
@@ -36,7 +36,7 @@ nav li{
     color:rgb(2, 4, 12);
     background-color: rgba(46, 44, 44, 0);
     list-style-type: none;
-    font-size: 10px;
+    font-size: 18px;
     margin: 1% auto;
     background-color: rgba(13, 68, 124, 0.568);
     color: rgb(45, 194, 8) ;

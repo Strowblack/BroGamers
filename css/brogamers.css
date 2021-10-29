@@ -19,7 +19,7 @@ nav li, ul{
     list-style-type: none;
     font-size: 10px;
     border-radius: 30px;
-    padding: 8px;
+    padding: 8px ;
 }
 nav img {
     padding: 20px;
@@ -40,6 +40,18 @@ nav li{
     margin: 1% auto;
     background-color: rgba(13, 68, 124, 0.568);
     color: rgb(45, 194, 8) ;
+}
+#navindex {
+    padding-top: 15px;
+}
+#navindex ul{
+    padding: 15px 10px 11px 14px;
+    border-radius: 30px;
+    width: 158px;
+}
+#navindex li{
+    list-style-type: none;
+    font-size: 18px;
 }
 #contenido{
     width: 64.5%;
